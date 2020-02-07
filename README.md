@@ -11,7 +11,7 @@ this is Stephen Mutu Gikonyo's Profolio .it has links to my project .It has also
 * A ram of 1 gb 
 
 ## Known Bugs ##
-there is a problem on the running on css 
+there is a problem on the running on
 
 ## Technology Used ##
 * .HTML
