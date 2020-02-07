@@ -20,3 +20,13 @@ h1{
 body{
     text-align:center;
 }
+img {
+    float: left;
+}
+.about{
+    background-color: darkolivegreen;
+}
+h5{
+    color:blue
+    font: size 200px 
+}
