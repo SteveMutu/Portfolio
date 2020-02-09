@@ -46,3 +46,9 @@ p3{
 #line3{
     color:magenta
 }
+.box-model{
+    border-left: 2px green
+    border-right: 4px green
+    border-top: 6px green
+    border-bottom: 8px green
+}
