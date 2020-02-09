@@ -52,3 +52,9 @@ p3{
     border-top: 6px green
     border-bottom: 8px green
 }
+h5{
+    line-height: 60px;
+}
+h6{
+    line-height: 60px;
+}
