@@ -40,3 +40,12 @@ p {
 .about{
     line-height: 60px;
 }
+.line1 {
+    color:red
+}
+.line2{
+    color:greenyellow
+}
+#line3{
+    color:magenta
+}
