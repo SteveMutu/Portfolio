@@ -3,14 +3,11 @@ body{
 }
 #h2{
     font: size 30px;
-    font font-weight: 900;
-    font-color: green;
+    font-weight: 900;
+    font-family: rgb(128, 4, 0);
 }
 .contacts{
     color:black;
-}
-h1{
-    color: darkblue;
 }
 .about{
     background-color: green;
@@ -29,7 +26,7 @@ img {
 }
 h5{
     color:blue
-    font-size:200px 
+    font-size=200px 
 }
 p {
     font-family: Arial;
