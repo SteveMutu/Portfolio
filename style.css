@@ -1,0 +1,60 @@
+body{
+    background-color: orange;
+}
+#h2{
+    font: size 30px;
+    font-weight: 900;
+    font-family: rgb(128, 4, 0);
+}
+.contacts{
+    color:black;
+}
+.about{
+    background-color: green;
+}
+h1{
+    color: black;
+}
+body{
+    text-align:center;
+}
+img {
+    float: left;
+}
+.about{
+    background-color: darkolivegreen;
+}
+h5{
+    color:blue
+    font-size=200px 
+}
+p3{
+    font-family: Arial;
+}
+.h2{
+    line-height:50px;
+}
+.about{
+    line-height: 60px;
+}
+.line1 {
+    color:red
+}
+.line2{
+    color:greenyellow
+}
+#line3{
+    color:magenta
+}
+.box-model{
+    border-left: 2px green
+    border-right: 4px green
+    border-top: 6px green
+    border-bottom: 8px green
+}
+h5{
+    line-height: 60px;
+}
+h6{
+    line-height: 60px;
+}
